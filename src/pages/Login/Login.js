@@ -54,6 +54,7 @@ const Login = () => {
                     className="Googlelogo"
                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/588px-Google_%22G%22_Logo.svg.png"
                     height="14px"
+                    alt="google"
                   ></img>
                   <p className="signinButtontext">Sign in with Google</p>
                 </div>
@@ -63,6 +64,7 @@ const Login = () => {
                   className="Googlelogo"
                   src="https://e7.pngegg.com/pngimages/374/156/png-clipart-apple-macbook-pro-logo-apple-logo-white-logo.png"
                   height="14px"
+                  alt="apple"
                 ></img>
                 <p className="SigninButtontext">Sign in with Apple</p>
               </div>
