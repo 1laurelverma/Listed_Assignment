@@ -335,14 +335,29 @@ select {
     flex-direction: column;
   }
   .ProductsCard {
-    width: 90%;
+    width: 95%;
   }
   .ScheduleCard {
-    width: 90%;
+    width: 95%;
   }
   .Card .CardSubHeading {
     font-family: "Open Sans", sans-serif;
     font-size: 16px;
     font-weight: 700;
+  }
+  .NavBarHeading {
+    margin: 10px auto;
+  }
+  .CardsContainer {
+    margin: 40px 0px;
+  }
+  .NavbarRight {
+    justify-content: center;
+  }
+  .GraphContainer {
+    margin: 5% 2%;
+  }
+  .ProductsCard {
+    margin: 5% 2%;
   }
 }
